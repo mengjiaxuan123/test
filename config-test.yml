@@ -2,4 +2,4 @@ spring:
   application:
     name: springcloud-config-test
   profiles:
-    active: dev
+    active: test
